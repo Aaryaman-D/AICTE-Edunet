@@ -1,0 +1,31 @@
+streamlit is a webbased py framework
+-- web based-- no html,css 
+we can directly create dashboards chatbots forms tables etc
+-- used for visualizations n stff
+--what we can built with this:::::
+-- Business analyst dashboard
+-- admin dashboards
+-- chatbots
+
+-- components:  (like eg html-> form,table..)
+
+-> Text components:
+- title()
+- header()
+- subheader()
+- write()
+
+-> If we want no texts eg img or videos : Media components:
+- image()
+- video()
+
+-> Layout Components:
+- sidebar()
+- columns()
+- tabs()
+
+-> Input Components:
+- text_input()
+- number_input()
+- selectbox()
+- slider()

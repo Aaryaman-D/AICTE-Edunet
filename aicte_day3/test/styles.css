@@ -1,0 +1,25 @@
+div.aa p
+{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    background-color:burlywood;
+}
+.aa h2{
+    font-size: 40px;
+    background-color: aquamarine;
+}
+.aa img{
+    height:250px;
+    background-color:black;
+}
+
+.btn1{
+    padding:25px
+}
+.btn2{
+    padding-left: 4px;
+    padding-bottom: 50px;
+    padding-right: 300px;
+    padding-top: 10px;
+    margin: 50px;
+}

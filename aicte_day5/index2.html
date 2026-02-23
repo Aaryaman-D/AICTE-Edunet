@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   
+    <button onclick="b()">INCREASE</button><br><br>
+    result : <input type="text" id="text1">
+    <script>
+        function b()
+        {
+            let number=document.getElementById("text1").value
+            let c=Number(number)+1
+            document.getElementById("text1").value=c    
+        }
+    </script>
+    
+</body>
+</html>
